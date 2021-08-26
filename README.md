@@ -1,3 +1,3 @@
 # Store Block course template
 
-Here you'll learn how to create awesome Store Framework blocks!
+This is a repository to practice VTEX IO.
